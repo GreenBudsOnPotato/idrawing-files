@@ -1,6 +1,6 @@
 <mxfile host="www.idrawing.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gqLWWWkK2MBCCaLSKEik">
-    <mxGraphModel dx="443" dy="212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="922" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,7 +221,7 @@
         <mxCell id="Lv0-X-jomwG8YArSZA9H-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lv0-X-jomwG8YArSZA9H-3" target="1T7E-ftq_SmdOSIjwgxf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lv0-X-jomwG8YArSZA9H-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lv0-X-jomwG8YArSZA9H-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;检查配置文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353.5" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
