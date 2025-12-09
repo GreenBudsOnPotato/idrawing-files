@@ -15,7 +15,7 @@
         <mxCell id="1T7E-ftq_SmdOSIjwgxf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1T7E-ftq_SmdOSIjwgxf-2" target="1T7E-ftq_SmdOSIjwgxf-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1T7E-ftq_SmdOSIjwgxf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1T7E-ftq_SmdOSIjwgxf-2" target="1T7E-ftq_SmdOSIjwgxf-14" edge="1">
+        <mxCell id="1T7E-ftq_SmdOSIjwgxf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1T7E-ftq_SmdOSIjwgxf-2" target="1T7E-ftq_SmdOSIjwgxf-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1T7E-ftq_SmdOSIjwgxf-2" value="&lt;font face=&quot;思源黑体&quot; style=&quot;font-size: 18px;&quot;&gt;利用命令行实现UI界面（主菜单）&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
