@@ -58,7 +58,7 @@
         </mxCell>
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-32" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bHmf2-Tx4Z95nJVltK-P-29">
           <mxGeometry x="-0.7498" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bHmf2-Tx4Z95nJVltK-P-27" target="bHmf2-Tx4Z95nJVltK-P-30">
@@ -71,11 +71,14 @@
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-27" value="是否读取到站点？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="650" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="bHmf2-Tx4Z95nJVltK-P-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHmf2-Tx4Z95nJVltK-P-28" target="bHmf2-Tx4Z95nJVltK-P-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-28" value="返回值1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490.00000000000006" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-30" value="返回值0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479.34000000000003" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="490.00000000000006" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
