@@ -302,11 +302,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AvA8xepphw5XaN0DR357-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AvA8xepphw5XaN0DR357-21" target="AvA8xepphw5XaN0DR357-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="590" />
-              <mxPoint x="750" y="590" />
-            </Array>
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AvA8xepphw5XaN0DR357-29" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AvA8xepphw5XaN0DR357-28">
+          <mxGeometry x="-0.3333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AvA8xepphw5XaN0DR357-21" value="是否输出方案到&lt;div&gt;日志中？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
