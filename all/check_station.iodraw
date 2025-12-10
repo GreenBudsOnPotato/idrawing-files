@@ -59,7 +59,7 @@
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-27" value="是否读取到站点？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="650" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bHmf2-Tx4Z95nJVltK-P-28" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bHmf2-Tx4Z95nJVltK-P-28" value="返回值1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
