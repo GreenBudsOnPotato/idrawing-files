@@ -131,7 +131,7 @@
         <mxCell id="cdcxA52fiqtAqvvV6U3j-34" value="提示用户&lt;div&gt;进入模糊搜索&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cdcxA52fiqtAqvvV6U3j-36" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;调用函数&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot; lang=&quot;EN-US&quot;&gt;“show_alias_options(char*, char***, int*)”&lt;/span&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;获取所有匹配的别名选项&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cdcxA52fiqtAqvvV6U3j-36" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;调用函数&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;“show_alias_options(char*, char***, int*)”&lt;/span&gt;获取所有匹配的别名选项&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
