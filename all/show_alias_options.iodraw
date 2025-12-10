@@ -126,8 +126,11 @@
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NnSv_t_ELtIRS5SDs-P_-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NnSv_t_ELtIRS5SDs-P_-94" target="NnSv_t_ELtIRS5SDs-P_-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-94" value="是否有&lt;span style=&quot;background-color: initial;&quot;&gt;重复&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;标准站点名？&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="620" width="115" height="80" as="geometry" />
+          <mxGeometry x="140" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-97" value="别名是否和&lt;div&gt;标准站点名匹配？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="620" width="120" height="80" as="geometry" />
