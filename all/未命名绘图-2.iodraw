@@ -146,10 +146,10 @@
         <mxCell id="ibW1z7U_i4J-r_fGY4Sy-19" value="退出函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ibW1z7U_i4J-r_fGY4Sy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="ibW1z7U_i4J-r_fGY4Sy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424" y="270" as="sourcePoint" />
-            <mxPoint x="724" y="260" as="targetPoint" />
+            <mxPoint x="370" y="501" as="sourcePoint" />
+            <mxPoint x="669.75" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ibW1z7U_i4J-r_fGY4Sy-22" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ibW1z7U_i4J-r_fGY4Sy-21">
