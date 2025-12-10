@@ -247,7 +247,7 @@
         <mxCell id="AvA8xepphw5XaN0DR357-6" value="打印输入摘要" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AvA8xepphw5XaN0DR357-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AvA8xepphw5XaN0DR357-11" value="在同线路中查找方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
