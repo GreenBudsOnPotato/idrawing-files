@@ -39,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-10" value="释放内存，返回值0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="599.34" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bHmf2-Tx4Z95nJVltK-P-20" target="bHmf2-Tx4Z95nJVltK-P-21">
           <mxGeometry relative="1" as="geometry" />
@@ -48,7 +48,7 @@
           <mxGeometry x="330" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-21" value="退出函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="599.34" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bHmf2-Tx4Z95nJVltK-P-22" target="bHmf2-Tx4Z95nJVltK-P-20">
           <mxGeometry relative="1" as="geometry" />
