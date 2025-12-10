@@ -152,7 +152,10 @@
           <mxGeometry x="300" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-102" value="扩展匹配数组" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NnSv_t_ELtIRS5SDs-P_-104" value="检查循环体" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="544" width="100" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
