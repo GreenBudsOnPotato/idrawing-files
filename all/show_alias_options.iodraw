@@ -151,13 +151,16 @@
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-97" value="别名是否和&lt;div&gt;标准站点名匹配？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="620" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="NnSv_t_ELtIRS5SDs-P_-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NnSv_t_ELtIRS5SDs-P_-102" target="NnSv_t_ELtIRS5SDs-P_-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-102" value="扩展匹配数组" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-104" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="480" y="742.5" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="NnSv_t_ELtIRS5SDs-P_-105" value="检查循环体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NnSv_t_ELtIRS5SDs-P_-105" value="检查循环体&lt;div&gt;结束&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="755" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
