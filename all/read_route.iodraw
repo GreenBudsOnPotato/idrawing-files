@@ -84,8 +84,8 @@
         <mxCell id="LfrPzi5EzMKAgV0Ol54b-11" value="读取路线配置&lt;div&gt;文件内容&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="555" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="LfrPzi5EzMKAgV0Ol54b-13" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="660" width="120" height="70" as="geometry" />
+        <mxCell id="LfrPzi5EzMKAgV0Ol54b-13" value="关闭&lt;div&gt;路线配置文件&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="650" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
