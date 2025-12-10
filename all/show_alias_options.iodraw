@@ -114,7 +114,7 @@
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NnSv_t_ELtIRS5SDs-P_-94" target="NnSv_t_ELtIRS5SDs-P_-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NnSv_t_ELtIRS5SDs-P_-96" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NnSv_t_ELtIRS5SDs-P_-95">
+        <mxCell id="NnSv_t_ELtIRS5SDs-P_-96" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NnSv_t_ELtIRS5SDs-P_-95">
           <mxGeometry x="0.1132" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
