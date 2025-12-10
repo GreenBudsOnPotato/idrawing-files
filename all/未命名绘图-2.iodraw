@@ -81,6 +81,11 @@
         <mxCell id="vdqyvISzGxrqYEoXHMTw-44" value="返回存储正式站点名的字符串地址" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500.00000000000006" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vdqyvISzGxrqYEoXHMTw-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vdqyvISzGxrqYEoXHMTw-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vdqyvISzGxrqYEoXHMTw-46" value="返回值NULL" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500.00000000000006" y="650" width="120" height="60" as="geometry" />
         </mxCell>
