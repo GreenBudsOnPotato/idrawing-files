@@ -75,7 +75,7 @@
         <mxCell id="2x2gRTSNz6jWvfyoDRhD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.499;exitY=0.852;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2x2gRTSNz6jWvfyoDRhD-13" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2x2gRTSNz6jWvfyoDRhD-13" value="关闭&lt;br&gt;&lt;div&gt;路线配置文件&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2x2gRTSNz6jWvfyoDRhD-13" value="关闭&lt;br&gt;&lt;div&gt;别名配置文件&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="325" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
