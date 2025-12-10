@@ -98,8 +98,14 @@
         <mxCell id="ibW1z7U_i4J-r_fGY4Sy-4" value="计算最短路径" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ibW1z7U_i4J-r_fGY4Sy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibW1z7U_i4J-r_fGY4Sy-6" target="ibW1z7U_i4J-r_fGY4Sy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ibW1z7U_i4J-r_fGY4Sy-6" value="路径是否有效？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibW1z7U_i4J-r_fGY4Sy-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
