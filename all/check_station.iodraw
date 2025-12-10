@@ -41,9 +41,6 @@
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-10" value="释放内存，返回值0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="599.34" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bHmf2-Tx4Z95nJVltK-P-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bHmf2-Tx4Z95nJVltK-P-20" target="bHmf2-Tx4Z95nJVltK-P-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-20" value="调用函数“check_station_index”&lt;div&gt;分割文件内容&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="550" width="120" height="60" as="geometry" />
         </mxCell>
@@ -55,6 +52,9 @@
         </mxCell>
         <mxCell id="bHmf2-Tx4Z95nJVltK-P-22" value="逐行处理文件内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bHmf2-Tx4Z95nJVltK-P-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
