@@ -38,7 +38,7 @@
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NnSv_t_ELtIRS5SDs-P_-74" target="NnSv_t_ELtIRS5SDs-P_-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NnSv_t_ELtIRS5SDs-P_-74" value="释放内存，返回值0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NnSv_t_ELtIRS5SDs-P_-74" value="释放内存，返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-75" value="退出函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
