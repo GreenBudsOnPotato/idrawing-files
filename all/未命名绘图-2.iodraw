@@ -247,11 +247,14 @@
         <mxCell id="AvA8xepphw5XaN0DR357-6" value="打印输入摘要" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AvA8xepphw5XaN0DR357-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AvA8xepphw5XaN0DR357-11" target="AvA8xepphw5XaN0DR357-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AvA8xepphw5XaN0DR357-11" value="在同线路中查找方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AvA8xepphw5XaN0DR357-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="429" width="80" height="80" as="geometry" />
+        <mxCell id="AvA8xepphw5XaN0DR357-12" value="是否成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="429" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
