@@ -11,7 +11,7 @@
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="退出模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="545" width="120" height="40" as="geometry" />
+          <mxGeometry x="170" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dtEYLlFW6D3_dmHDPI64-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dtEYLlFW6D3_dmHDPI64-1" target="dtEYLlFW6D3_dmHDPI64-3">
           <mxGeometry relative="1" as="geometry" />
@@ -72,8 +72,8 @@
         <mxCell id="dtEYLlFW6D3_dmHDPI64-13" value="站名是否存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dtEYLlFW6D3_dmHDPI64-17" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="314" y="400" width="100" height="80" as="geometry" />
+        <mxCell id="dtEYLlFW6D3_dmHDPI64-17" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="505" width="100" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
