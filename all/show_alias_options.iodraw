@@ -151,7 +151,7 @@
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-97" value="别名是否和&lt;div&gt;标准站点名匹配？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NnSv_t_ELtIRS5SDs-P_-102" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NnSv_t_ELtIRS5SDs-P_-102" value="扩展匹配数组" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
