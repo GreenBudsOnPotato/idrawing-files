@@ -27,18 +27,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dtEYLlFW6D3_dmHDPI64-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dtEYLlFW6D3_dmHDPI64-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dtEYLlFW6D3_dmHDPI64-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="280.0033333333333" as="sourcePoint" />
             <mxPoint x="290" y="346.67" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="346.67" />
+              <mxPoint x="380" y="347" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dtEYLlFW6D3_dmHDPI64-12" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dtEYLlFW6D3_dmHDPI64-11">
           <mxGeometry x="0.0958" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dtEYLlFW6D3_dmHDPI64-3" value="输入格式&lt;div&gt;是否合法？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
