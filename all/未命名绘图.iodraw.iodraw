@@ -164,8 +164,8 @@
         <mxCell id="dtEYLlFW6D3_dmHDPI64-36" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;输入的别名是否&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;已经存在？是否为站名？是否包含分隔符‘|’？&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="477.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dtEYLlFW6D3_dmHDPI64-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="585" width="120" height="60" as="geometry" />
+        <mxCell id="dtEYLlFW6D3_dmHDPI64-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="585" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
