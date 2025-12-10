@@ -151,7 +151,7 @@
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-97" value="别名是否和&lt;div&gt;标准站点名匹配？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NnSv_t_ELtIRS5SDs-P_-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NnSv_t_ELtIRS5SDs-P_-102" target="NnSv_t_ELtIRS5SDs-P_-105">
+        <mxCell id="NnSv_t_ELtIRS5SDs-P_-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NnSv_t_ELtIRS5SDs-P_-102" target="NnSv_t_ELtIRS5SDs-P_-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NnSv_t_ELtIRS5SDs-P_-102" value="扩展匹配数组" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
