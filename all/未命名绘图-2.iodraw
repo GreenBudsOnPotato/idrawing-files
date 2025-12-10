@@ -115,7 +115,7 @@
         <mxCell id="ibW1z7U_i4J-r_fGY4Sy-8" value="舍弃无效方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ibW1z7U_i4J-r_fGY4Sy-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ibW1z7U_i4J-r_fGY4Sy-11" value="输出前五个最优方案" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
