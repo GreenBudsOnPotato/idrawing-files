@@ -37,8 +37,8 @@
         <mxCell id="mu7Cxbx73t_-SrbEz-bz-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;输出详细路径和票价&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mu7Cxbx73t_-SrbEz-bz-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" width="80" height="80" as="geometry" />
+        <mxCell id="mu7Cxbx73t_-SrbEz-bz-16" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;用户是否要按方案输出到日志文件中？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
